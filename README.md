@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Dev_Detective](https://github.com/shiv331/Dev_Detective)
 
-- 🌱 I’m currently learning **ReacrJs,MongoDB,Express and NodeJs**
+- 🌱 I’m currently learning **ReactJs,MongoDB,Express and NodeJs**
 
 - 💬 Ask me about **Reactjs,Tailwind etc**
 
